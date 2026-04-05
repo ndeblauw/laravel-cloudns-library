@@ -1,7 +1,7 @@
 # Laravel ClouDNS Library
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.3%2B-blue.svg)](https://www.php.net)
-[![Laravel Version](https://img.shields.io/badge/Laravel-11.x-red.svg)](https://laravel.com)
+[![Laravel Version](https://img.shields.io/badge/Laravel-11.x%20%7C%2012.x%20%7C%2013.x-red.svg)](https://laravel.com)
 [![Code Coverage](https://img.shields.io/badge/coverage-93.75%25-brightgreen.svg)](https://github.com/ljpc/laravel-cloudns)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -28,7 +28,7 @@ A comprehensive Laravel package for interacting with the ClouDNS API. This libra
 - Facade for easy access
 - Configuration file
 - Dependency injection support
-- Laravel 11.x compatible
+- Laravel 11.x, 12.x, and 13.x compatible
 
 🛡️ **Enterprise Ready**
 - PHP 8.3+ with full type safety
@@ -41,7 +41,7 @@ A comprehensive Laravel package for interacting with the ClouDNS API. This libra
 ## Requirements
 
 - PHP 8.3 or higher
-- Laravel 11.x
+- Laravel 11.x, 12.x, or 13.x
 - Guzzle HTTP Client 7.8+
 
 ## Installation
